@@ -6,8 +6,8 @@ The project creates a song and user activity data model for a music streaming ap
 
 Unzipping the deliverable or cloning the repository will get you a copy of the project up and running on your local machine for development and testing purposes. 
 
-`git@github.com:ypatankar/PostgreETL.git`
-`https://github.com/ypatankar/PostgreETL.git`
+- `git@github.com:ypatankar/PostgreETL.git`
+- `https://github.com/ypatankar/PostgreETL.git`
 
 ### Prerequisites
 
